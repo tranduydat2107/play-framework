@@ -1,0 +1,5 @@
+new playframework/play-java-seed.g8
+run
+clear
+run
+pwd

@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/minhnguyen/Desktop/playFrameWork/play-samples-play-java-hello-world-tutorial/app/controllers/CountController.java:5:1: package services does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mservices.Counter[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/minhnguyen/Desktop/playFrameWork/play-samples-play-java-hello-world-tutorial/app/controllers/CountController.java:19:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Counter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.CountController[0m
+[0m[[0m[31merror[0m] [0m[0mCounter[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/minhnguyen/Desktop/playFrameWork/play-samples-play-java-hello-world-tutorial/app/controllers/CountController.java:22:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Counter[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.CountController[0m
+[0m[[0m[31merror[0m] [0m[0mCounter[0m
